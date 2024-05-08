@@ -1,4 +1,4 @@
-# DOT Net core Basic CRUD sample
+# Dot Net core Basic CRUD sample
 
 Simple CRUD for user information with c# .Net Core project
 
