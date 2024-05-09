@@ -4,7 +4,7 @@ Simple CRUD for user information with c# .Net Core project
 
 ## Description
 
-Create Simple CRUD management like add records, remove, edit and serach with with c# .Net Core project
+Create Simple CRUD management like adding records, removing, editing, and searching with the c# .Net Core project
 
 ## Getting Started
 
@@ -26,4 +26,4 @@ vahidmashmooli@gmail.com
 
 ## Version History
 
-* 0.0.1
+* 0.1.0
